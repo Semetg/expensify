@@ -17,6 +17,7 @@ const AppRouter = () => (
         <Route path="/edit/:id" component={EditExpensePage} />
         <Route component={NotFoundPage} />
     </Switch>
+    <script src="https://gist.github.com/Semetg/615b5b1673e18cd82f196bd46178a8f3.js"></script>
     </div>
   </BrowserRouter>
 );
